@@ -10,7 +10,8 @@ Tambíen estoy estudiando Ingles para poder obtener mejores oportunidades labora
     * Javascript
     * Html 
     * Css 
-    * Sql 
-    * Inglés
+    * Sql
     * MongoDB
+    * Inglés
+    
  - 👯 Me encuentro en busqueda de mi primera oportunidad laboral como programador para poder poner a prueba todo lo que he ido aprendiendo
