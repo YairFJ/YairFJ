@@ -4,7 +4,7 @@
 Hola mi nombre es **Yair Farina**, vivo en **Argentina** y soy estudiante de la carrera de desarrollo de software.
 Tambíen estoy estudiando Ingles para poder obtener mejores oportunidades laborales y para tener acceso a más informacion acerca del rubro.
 
-- 🌱 Me encuentro aprendiendo las siguientes tecnologías y idiomas: 
+- 🌱 Me encuentro aprendiendo las siguientes tecnologías e idiomas: 
     * Python 
     * Flask 
     * Javascript
