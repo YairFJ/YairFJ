@@ -1,5 +1,5 @@
 # Yair Farina
-### Estudiante de Desarrollo de Software
+## Estudiante de Desarrollo de Software
 
 Hola mi nombre es **Yair Farina**, vivo en **Argentina** y soy estudiante de la carrera de desarrollo de software.
 Tambíen estoy estudiando Ingles para poder obtener mejores oportunidades laborales y para tener acceso a más informacion acerca del rubro.
